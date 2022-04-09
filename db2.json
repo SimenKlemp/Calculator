@@ -1,0 +1,15 @@
+
+{
+  "registrations": [
+    {
+      "id": "123",
+      "name": "Simen",
+      "address": "Magnus den Godes gate 8",
+      "username": "simenkp",
+      "password": "hei",
+      "email": "simenk2312@gmail.com",
+      "phone": "40539147"
+    }
+  ]
+
+}
