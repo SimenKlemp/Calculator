@@ -1,4 +1,4 @@
-# oving2-3
+# Calculator
 
 ## Project setup
 ```
